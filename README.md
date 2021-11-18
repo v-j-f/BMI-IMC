@@ -5,7 +5,7 @@ El índice de masa corporal (IMC) es un número que se calcula en base a la altu
 y peso de la persona. Se trata de un indicador confiable de la gordura y se usa 
 para identificar las categorías de peso que pueden llevar a problemas de salud.
 
-Es programa está desarrollado en C++ y ha sido compilado para Windows.
+Este programa está desarrollado en C++ y ha sido compilado para Windows.
 
 Ejecuta el fichero bmi.exe desde la línea de comandos e introduce tu altura y peso.
 El programa te mostrará tu IMC, tu categoría de peso y cuál sería tu peso ideal(*).
